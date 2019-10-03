@@ -1,0 +1,15 @@
+{
+  "typeEmailMakeAnOfferDeclined": "true",
+  "ProductImage": "KJTD70.jpg",
+  "ProductDescription": "1.20ct Montepuez Ruby (H)",
+  "OfferPrice": "9.99",
+  "marketing": false,
+  "brand": "gemporia",
+  "logourl": "https://cdn.gemporia.com/images/cdn/email/Gemporia-logo.png",
+  "regards": "Gemporia",
+  "mailto": "help@gemporia.com",
+  "weburl": "www.Gemporia.com",
+  "phonenumber": "0800 330 8000",
+  "devplatform": true,
+  "campaign": "makeanofferdeclined"
+}

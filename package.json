@@ -1,0 +1,28 @@
+{
+  "name": "mc-json-formatter",
+  "version": "1.0.0",
+  "repository": "https://github.com/murpjack/mc-json-formatter.git",
+  "description": "Node module to format all JSON data returned by MailChimp server. Formats all files in a specified folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "formatJSON": "node index.js"
+  },
+  "author": "Dan Rose",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-compile-handlebars": "^1.0.1",
+    "grunt-contrib-handlebars": "^1.0.0",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-premailer": "^0.2.12",
+    "grunt-processhtml": "^0.3.7",
+    "grunt-static-handlebars": "^0.9.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node": "^10.16.3"
+  }
+}
