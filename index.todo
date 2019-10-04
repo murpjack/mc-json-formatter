@@ -1,5 +1,6 @@
 - [x] publish as node_module
+- [] detail how-to in README file
 - [] hide TODOs in npm package
-- [] auto-tidy files after reformatting
+- [] ?? auto-tidy files after reformatting
 - [] ?? Add tests to project
 - [] ?? add double-quotes to all valid JSON files in path
