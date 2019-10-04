@@ -1,2 +1,5 @@
-- [] Add tests to project
-- [] publish as node_module
+- [x] publish as node_module
+- [] hide TODOs in npm package
+- [] auto-tidy files after reformatting
+- [] ?? Add tests to project
+- [] ?? add double-quotes to all valid JSON files in path
