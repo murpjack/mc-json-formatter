@@ -30,4 +30,4 @@ function formatJSON(originalFile) {
   { [originalFile[0].name]: originalFile[0].content });
 }
 
-returnNewJSON(folder);
+exports.formatter = returnNewJSON(folder);
